@@ -1,2 +1,2 @@
 # practice1
-Practicing git
+The purpose of this repo is to test git
